@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+package src.pl.poznan.put.check;
 
 public class CorrectUnit {
     private double value;
