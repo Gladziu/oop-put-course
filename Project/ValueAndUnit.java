@@ -83,7 +83,7 @@ public class ValueAndUnit{
         return new ConvertTime(-1);
     }
 
-    //Temperature unit - converting to seconds
+    //Temperature unit - converting to celcius
     public ConvertTemperature toMainValueTemperature(){
         if (unit.equals("C")) {
             return new ConvertTemperature(value, true);
