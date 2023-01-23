@@ -1,3 +1,5 @@
+package src.pl.poznan.put.coversion;
+
 //Weight converter, finall results
 public class ConvertWeight implements ConvertAndDisplay{
     private double valueToConvert;
