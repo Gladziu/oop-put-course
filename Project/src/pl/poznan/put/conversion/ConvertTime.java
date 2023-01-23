@@ -1,3 +1,5 @@
+package src.pl.poznan.put.coversion;
+
 //Time converter, finall results
 public class ConvertTime implements ConvertAndDisplay{
     private double valueToConvert;
