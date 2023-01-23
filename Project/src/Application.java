@@ -1,3 +1,7 @@
+import src.pl.poznan.put.check.CorrectUnit;
+import src.pl.poznan.put.coversion.*;
+import src.pl.poznan.put.initial_value.ValueAndUnit;
+
 import java.util.Scanner;
 
 //Unit converter for length, mass, time and temperature
