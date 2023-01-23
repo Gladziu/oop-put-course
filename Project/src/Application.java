@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Konwerter jednostek długości, masy, czasu, temperatury
+//Unit converter for length, mass, time and temperature
 public class Application{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
