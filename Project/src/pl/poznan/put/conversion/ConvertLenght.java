@@ -1,4 +1,4 @@
-package src.pl.poznan.put.coversion;
+package pl.poznan.put.conversion;
 
 //Lenght converter, finall results
 public class ConvertLenght implements ConvertAndDisplay{
