@@ -1,4 +1,4 @@
-package src.pl.poznan.put.coversion;
+package pl.poznan.put.conversion;
 
 //Time converter, finall results
 public class ConvertTime implements ConvertAndDisplay{
