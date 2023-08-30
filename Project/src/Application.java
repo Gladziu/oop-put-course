@@ -8,15 +8,19 @@ import java.util.Scanner;
 public class Application{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
-        System.out.println("UNIT CONVERTER - length, weight, time, temperature");
         
+        System.out.println("UNIT CONVERTER - length, weight, time, temperature");
         //input value
         System.out.print("1. Enter value: ");
         double value = scan.nextDouble();
         scan.nextLine(); //scanning end of line
-        
+        System.out.print("Units \n" +
+                "length: mm, cm, dm, m, km \n" +
+                "mass: mg, g, dkg, kg, t \n" +
+                "time: ns, µs, ms, s, min, h \n" +
+                "temperature: C, F, K \n");
         //input unit
-        System.out.print("2. Enter unit: (cm, F, min)");
+        System.out.print("2. Enter unit: ");
         String unit = scan.nextLine();
         
         //check if unit is correct and if input value is correct
