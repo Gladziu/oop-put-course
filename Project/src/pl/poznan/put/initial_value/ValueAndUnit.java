@@ -1,8 +1,5 @@
-package src.pl.poznan.put.initial_value;
-import src.pl.poznan.put.coversion.ConvertLenght;
-import src.pl.poznan.put.coversion.ConvertTemperature;
-import src.pl.poznan.put.coversion.ConvertTime;
-import src.pl.poznan.put.coversion.ConvertWeight;
+package pl.poznan.put.initial_value;
+import pl.poznan.put.conversion.*;
 
 
 public class ValueAndUnit{
