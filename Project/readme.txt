@@ -1,3 +1,3 @@
-Projekt stworzony na zjęcia z OOP.
+## Unit converter
 
-Program to konwerter jednostek w Java.
+Project in Java created for university classes
