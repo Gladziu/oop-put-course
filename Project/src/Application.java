@@ -1,6 +1,6 @@
-import src.pl.poznan.put.check.CorrectUnit;
-import src.pl.poznan.put.coversion.*;
-import src.pl.poznan.put.initial_value.ValueAndUnit;
+import pl.poznan.put.check.CorrectUnit;
+import pl.poznan.put.conversion.*;
+import pl.poznan.put.initial_value.*;
 
 import java.util.Scanner;
 
